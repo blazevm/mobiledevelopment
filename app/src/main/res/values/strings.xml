@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Logica</string>
+    <string name="title">Conjunction (AND)</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+</resources>
